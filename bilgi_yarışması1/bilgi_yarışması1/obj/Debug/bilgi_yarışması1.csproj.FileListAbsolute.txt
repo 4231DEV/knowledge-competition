@@ -1,0 +1,10 @@
+C:\Users\semih\Desktop\Dersler\C# dersleri\bilgi_yarışması1\bilgi_yarışması1\bin\Debug\bilgi_yarışması1.exe.config
+C:\Users\semih\Desktop\Dersler\C# dersleri\bilgi_yarışması1\bilgi_yarışması1\bin\Debug\bilgi_yarışması1.exe
+C:\Users\semih\Desktop\Dersler\C# dersleri\bilgi_yarışması1\bilgi_yarışması1\bin\Debug\bilgi_yarışması1.pdb
+C:\Users\semih\Desktop\Dersler\C# dersleri\bilgi_yarışması1\bilgi_yarışması1\obj\Debug\bilgi_yarışması1.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\bilgi_yarışması1\bilgi_yarışması1\obj\Debug\bilgi_yarışması1.Form1.resources
+C:\Users\semih\Desktop\Dersler\C# dersleri\bilgi_yarışması1\bilgi_yarışması1\obj\Debug\bilgi_yarışması1.Properties.Resources.resources
+C:\Users\semih\Desktop\Dersler\C# dersleri\bilgi_yarışması1\bilgi_yarışması1\obj\Debug\bilgi_yarışması1.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\bilgi_yarışması1\bilgi_yarışması1\obj\Debug\bilgi_yarışması1.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\bilgi_yarışması1\bilgi_yarışması1\obj\Debug\bilgi_yarışması1.exe
+C:\Users\semih\Desktop\Dersler\C# dersleri\bilgi_yarışması1\bilgi_yarışması1\obj\Debug\bilgi_yarışması1.pdb

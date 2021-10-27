@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bilgi_yarışması1", "bilgi_yarışması1\bilgi_yarışması1.csproj", "{937E7731-D094-42D2-8C8C-D21F3C46548D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937E7731-D094-42D2-8C8C-D21F3C46548D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937E7731-D094-42D2-8C8C-D21F3C46548D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937E7731-D094-42D2-8C8C-D21F3C46548D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937E7731-D094-42D2-8C8C-D21F3C46548D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F7F6E6-D761-4366-84D9-340AC7FC3CDC}
+	EndGlobalSection
+EndGlobal
